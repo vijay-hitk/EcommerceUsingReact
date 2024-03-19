@@ -1,4 +1,4 @@
-# Estore-react app made with reduxtoolkit
+# Ecommerce-react app made with reduxtoolkit
 
 ## Hosted Link : 
 https://polite-narwhal-b213e6.netlify.app/
