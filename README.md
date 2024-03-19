@@ -1,8 +1,7 @@
 # Estore-react app made with reduxtoolkit
 
 ## Hosted Link : 
-
-# https://ecommerceskilltest.netlify.app/
+https://polite-narwhal-b213e6.netlify.app/
 
 Functionalities : 
 - [x] Read product from server
@@ -24,4 +23,4 @@ Functionalities :
 - Axios
 - Bootstrap
 
-### I'm open to suggestions , you can [mail](mailto:fularekaran@yahoo.com) me, thank you !!!
+
